@@ -42,10 +42,6 @@ Hello there! :wave: I'm Jesse Dugas (/jeh-see due-gah/, he/him), a seasoned acce
 
 ## About my interactions
 
-### How do you coach people to do their best work and develop their talents?
-
-- This is a strange question, I probably won't use this question.
-
 ### What's the best way to communicate with you?
 
 - I don't check my email often, a Slack message if a short answer is needed, or a quick Zoom call if you have a discussion or more than one question is usually best for me.
