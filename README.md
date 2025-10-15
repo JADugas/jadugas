@@ -1,3 +1,5 @@
+![](https://github.com/user-attachments/assets/b2658f78-60af-4a77-aa87-ca2ac7930d84)
+
 # Hey, I'm Jesse! 👋
 
 I work to remove barriers for people with disabilities in digital and physical spaces. I've spent over 15 years working in accessibility, User Experience (UX) and front-end development—and yes, I do love em dashes, it's not fair that Artificial Intelligence (AI) stole their spotlight! More recently, I've been exploring how AI fits into accessibility and inclusive design. I've been fortunate to do this work at companies like TikTok, GitHub and Meta.
